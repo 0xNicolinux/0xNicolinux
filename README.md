@@ -1,33 +1,29 @@
-# 0xNicolinux
+# Hi, I'm Nícolas — 0xNicolinux
 
-Hi, I'm Nícolas. I like writing code, exploring technology, and occasionally falling down a rabbit hole because something caught my attention.
+I'm a developer and technology enthusiast who enjoys building software, exploring how systems work, and learning through practical projects.
 
-I'm interested in Linux, games, cybersecurity, artificial intelligence, and new technologies that catch my attention.
+My interests include Linux, software development, games, cybersecurity, artificial intelligence, and open-source technology.
 
-This is a small space for my projects, experiments, ideas, and whatever else curiosity leads me to build.
-
-## Stack
+## Technologies and tools
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=c,cpp,java,py,linux,windows,git\&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,cpp,java,py,linux,windows,git&theme=dark)](https://skillicons.dev)
 
 </div>
 
-## A little more about me
+I have worked with C, C++, Python, Java, Linux, Windows, and Git. I use personal and academic projects to explore concepts, practice problem-solving, and become more familiar with different areas of software development.
 
-I'm familiar with both Linux and Windows and have spent time working with C, C++, Python, Java, and Git. I'm still learning, and I don't mind being a beginner at something interesting.
+## Areas of interest
 
-Outside of writing code, I like reading about games and the technology behind them, cybersecurity, and artificial intelligence.
+- **Software development:** building applications and experimenting with different programming languages.
+- **Operating systems:** learning about Linux, Windows, and the tools available in each environment.
+- **Cybersecurity:** exploring security concepts and the technologies behind them.
+- **Artificial intelligence:** following tools and developments in AI.
+- **Open source:** using, studying, and learning from software shared by the community.
 
-I'm also a big fan of Open Source. I use a lot of open-source software and genuinely appreciate the idea of people building and sharing things that others can use, learn from, and improve.
+## Projects
 
-I don't always need a practical reason to learn something. Sometimes, curiosity is enough.
+This profile contains a mix of academic work, utilities, experiments, and larger projects. Each repository has its own scope and documentation, so its README is the best place to find implementation details, technologies, and instructions for running it.
 
-## Things I build
-
-Here you'll find projects, experiments, and ideas that I've decided to turn into something real.
-
-Some start with a problem, others with an idea, and some simply begin with a question:
-
-> **What happens if I try this?**
+I value curiosity, continuous learning, and turning ideas into working software.
